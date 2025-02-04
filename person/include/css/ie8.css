@@ -1,0 +1,5 @@
+@charset "utf-8";
+
+#wrap{min-width:1340px;}
+#header.on{background-color:#5adbe0;}
+.slick-prev,.slick-next{background-color:#000;}
